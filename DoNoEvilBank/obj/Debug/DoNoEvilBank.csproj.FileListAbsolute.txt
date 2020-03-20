@@ -1,0 +1,12 @@
+C:\Users\darie\source\repos\DoNoEvilBank\DoNoEvilBank\bin\Debug\DoNoEvilBank.exe.config
+C:\Users\darie\source\repos\DoNoEvilBank\DoNoEvilBank\bin\Debug\DoNoEvilBank.exe
+C:\Users\darie\source\repos\DoNoEvilBank\DoNoEvilBank\bin\Debug\DoNoEvilBank.pdb
+C:\Users\darie\source\repos\DoNoEvilBank\DoNoEvilBank\obj\Debug\DoNoEvilBank.csprojAssemblyReference.cache
+C:\Users\darie\source\repos\DoNoEvilBank\DoNoEvilBank\obj\Debug\DoNoEvilBank.frmMain.resources
+C:\Users\darie\source\repos\DoNoEvilBank\DoNoEvilBank\obj\Debug\DoNoEvilBank.Properties.Resources.resources
+C:\Users\darie\source\repos\DoNoEvilBank\DoNoEvilBank\obj\Debug\DoNoEvilBank.csproj.GenerateResource.cache
+C:\Users\darie\source\repos\DoNoEvilBank\DoNoEvilBank\obj\Debug\DoNoEvilBank.csproj.CoreCompileInputs.cache
+C:\Users\darie\source\repos\DoNoEvilBank\DoNoEvilBank\obj\Debug\DoNoEvilBank.exe
+C:\Users\darie\source\repos\DoNoEvilBank\DoNoEvilBank\obj\Debug\DoNoEvilBank.pdb
+C:\Users\darie\source\repos\DoNoEvilBank\DoNoEvilBank\obj\Debug\DoNoEvilBank.frmLogIn.resources
+C:\Users\darie\source\repos\DoNoEvilBank\DoNoEvilBank\obj\Debug\DoNoEvilBank.frmProfiles.resources

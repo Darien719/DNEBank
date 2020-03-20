@@ -1,0 +1,12 @@
+ProfileID: 1006
+First Name: Darien
+Middle Initial: 
+Last Name: Sosa
+Date of Birth: Saturday, November 7, 1998
+Phone Number: 7862371432
+Mailing Address: 1234 SW 7th Ln 
+City: Miami
+ZIP: 331758888
+Username: Darien719
+Password: Password12
+Email: dsosa029@fiu.edu
